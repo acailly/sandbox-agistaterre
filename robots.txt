@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://acailly.github.io/sandbox-agistaterre/sitemap.xml
